@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=emanuel-passos&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
+<h3 align="center">
   Hi, I'm Emanuel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h3 align="center">A fullstack developer from Brazil</h3>
-
+</h3>
+<p align="center">A fullstack developer from Brazil</p>
+<hr/>
 <p align="center">
 :hammer_and_wrench: Languages and Tools :
 </p>
