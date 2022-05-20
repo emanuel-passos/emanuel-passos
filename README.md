@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   Hi, I'm Emanuel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-<p align="center">A fullstack developer from Brazil</p>
+<p align="center">Fullstack developer e graduando em ciência da computação na UFMA</p>
 <hr/>
 <p align="center">
 <b>
