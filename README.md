@@ -38,7 +38,9 @@ Here are some ideas to get you started:
 <p align="center">A fullstack developer from Brazil</p>
 <hr/>
 <p align="center">
+<b>
 :hammer_and_wrench: Languages and Tools :
+</b>
 </p>
 
 <p align="center"> 
@@ -59,7 +61,16 @@ Here are some ideas to get you started:
 
 <hr/>
 
-### :fire: My Stats :
+<p align="center">
+<b>
+:fire: My Stats :
+</b>
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuel-passos&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-passos&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<a href="https://github.com/emanuel-passos">
+<img height="180em"src="https://github-readme-stats.vercel.app/api?username=emanuel-passos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuel-passos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
