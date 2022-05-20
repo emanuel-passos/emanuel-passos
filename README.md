@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-### :hammer_and_wrench: Languages and Tools :
-<p align="left">
+<p align="center">
+:hammer_and_wrench: Languages and Tools :
 </p>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
