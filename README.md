@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
   Hi, I'm Emanuel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/> -->
 </h3>
 <p align="center">Fullstack developer e graduando em ciência da computação na UFMA</p>
 <hr/>
